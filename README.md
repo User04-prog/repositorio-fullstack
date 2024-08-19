@@ -1,3 +1,9 @@
+commit inicial
 touch README.md
-[command1](image.png)
-Commit inicial
+git add README.md
+git status
+git commit -m "cracion de archivo readme"
+git push
+touch privado.txt
+mkdir privada
+touch .gitignore
